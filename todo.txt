@@ -1,0 +1,7 @@
+X * spara hi-score
+X	* input namn på hi-score
+X * spelarobjektet följer med rörliga plattformar
+X * Tid 30 sekunder. varje peng ger 2 extra sekunder
+* Plattformar kan inte putta spelarobjektet
+* meny
+	* svårighetsgrad
